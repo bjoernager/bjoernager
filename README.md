@@ -10,7 +10,7 @@ I still sometimes write code in C, but I usually avoid C++.
 I really like programming embedded or "ancient" systems such as the Game Boy Advance (of which I've long wanted to make an emulator for).
 I have limited experience in assembly (mostly Arm but also x86).
 
-# Projets
+# Projects
 
 My pinned repositories denote the projects that I am most fond of.
 These include:
@@ -24,7 +24,7 @@ These include:
 
 I additionally host my repositories on [GitLab](https://gitlab.com/bjoernager/) [`mandelbrot.dk`](https://mandelbrot.dk/).  
 
-# Profile picture
+## Profile picture
 
 [*Dux*](https://github.com/bjoernager/dux/) was my first library and intended for replacing other libraries such as GLFW and Winit.
 The logo of this project was loosely based on that of u8c and currently serves as my profile picture.
