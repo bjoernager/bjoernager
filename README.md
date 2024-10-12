@@ -22,7 +22,7 @@ These include:
 * [*Luma*](https://github.com/bjoernager/luma/); an emulator for the GBA line of systems
 * [*Pollex*](https://github.com/bjoernager/pollex/); a Rust crate for handling Arm instructions
 
-I additionally host my repositories on [GitLab](https://gitlab.com/bjoernager/) [`mandelbrot.dk`](https://mandelbrot.dk/).  
+I additionally host my repositories on [GitLab](https://gitlab.com/bjoernager/) and [`mandelbrot.dk`](https://mandelbrot.dk/).  
 
 ## Profile picture
 
