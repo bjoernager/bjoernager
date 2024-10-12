@@ -21,7 +21,7 @@ These include:
 * [eAS](https://github.com/bjoernager/eas/); a Rust-written assembler for Arm
 * [Luma](https://github.com/bjoernager/luma/); an emulator for the GBA line of systems
 * [Pollex](https://github.com/bjoernager/pollex/); a Rust crate for handling Arm instructions
-* [u8c](https://github.com/bjoernager/u8c/); a library for exposing Unicode-related functions in a C interface
+* [u8c](https://github.com/bjoernager/u8c/); a C library for Unicode-related facilities
 
 I additionally host my repositories on [GitLab](https://gitlab.com/bjoernager/) and [`mandelbrot.dk`](https://mandelbrot.dk/).  
 
