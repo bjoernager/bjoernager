@@ -24,3 +24,8 @@ These include:
 
 I additionally host my repositories on [GitLab](https://gitlab.com/bjoernager/) [`mandelbrot.dk`](https://mandelbrot.dk/).  
 
+# Profile picture
+
+[*Dux*](https://github.com/bjoernager/dux/) was my first library and intended for replacing other libraries such as GLFW and Winit.
+The logo of this project was loosely based on that of u8c and currently serves as my profile picture.
+
