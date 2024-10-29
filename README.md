@@ -8,7 +8,8 @@ I initially wrote in C++ (and later C), but I've come to mostly replace those wi
 I still sometimes write code in C, but I usually avoid C++.
 
 I really like programming embedded or "ancient" systems such as the Game Boy Advance (of which I've long wanted to make an emulator for).
-I have limited experience in assembly (mostly Arm but also x86).
+I have dabbled multiple times in implementing the C standard library for Linux.
+I also have limited experience in assembly (mostly legacy Arm but also x86).
 
 # Projects
 
