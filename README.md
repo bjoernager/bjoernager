@@ -17,7 +17,7 @@ These include:
 
 * [agbsum](https://github.com/bjoernager/agbsum/); a CLI tool for patching GBA image header checksums
 * [Benoit](https://github.com/bjoernager/benoit/); a multithreaded Mandelbrot Set renderer
-* [bzipper](https://github.com/bjoernager/bzipper/); a Rust crate for encoding and decoding binary streams
+* [bZipper](https://github.com/bjoernager/bzipper/); a Rust crate for encoding and decoding binary streams
 * [eAS](https://github.com/bjoernager/eas/); a Rust-written assembler for Arm
 * [Luma](https://github.com/bjoernager/luma/); an emulator for the GBA line of systems
 * [Pollex](https://github.com/bjoernager/pollex/); a Rust crate for handling Arm instructions
