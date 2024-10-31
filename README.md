@@ -24,7 +24,7 @@ These include:
 * [Pollex](https://github.com/bjoernager/pollex/); a Rust crate for handling Arm instructions
 * [u8c](https://github.com/bjoernager/u8c/); a C library for Unicode-related facilities
 
-I additionally host my repositories on [GitLab](https://gitlab.com/bjoernager/) and [`mandelbrot.dk`](https://mandelbrot.dk/).  
+I host my repositories on [GitHub](https://github.com/bjoernager/), [GitLab](https://gitlab.com/bjoernager/), and [`mandelbrot.dk`](https://mandelbrot.dk/).  
 
 [Dux](https://github.com/bjoernager/dux/) was my first library and intended for replacing other libraries such as GLFW and Winit.
 The logo of this project was loosely based on that of u8c and currently serves as my profile picture.
