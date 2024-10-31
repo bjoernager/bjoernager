@@ -16,16 +16,16 @@ I also have limited experience in assembly (mostly legacy Arm but also x86).
 My pinned repositories denote the projects that I am most fond of.
 These include:
 
-* [agbsum](https://github.com/bjoernager/agbsum/); a CLI tool for patching GBA image header checksums
-* [Benoit](https://github.com/bjoernager/benoit/); a multithreaded Mandelbrot Set renderer
-* [bZipper](https://github.com/bjoernager/bzipper/); a Rust crate for encoding and decoding binary streams
-* [eAS](https://github.com/bjoernager/eas/); a Rust-written assembler for Arm
-* [Luma](https://github.com/bjoernager/luma/); an emulator for the GBA line of systems
-* [Pollex](https://github.com/bjoernager/pollex/); a Rust crate for handling Arm instructions
-* [u8c](https://github.com/bjoernager/u8c/); a C library for Unicode-related facilities
+* [agbsum](https://mandelbrot.dk/agbsum/); a CLI tool for patching GBA image header checksums
+* [Benoit](https://mandelbrot.dk/benoit/); a multithreaded Mandelbrot Set renderer
+* [bZipper](https://mandelbrot.dk/bzipper/); a Rust crate for encoding and decoding binary streams
+* [eAS](https://mandelbrot.dk/eas/); a Rust-written assembler for Arm
+* [Luma](https://mandelbrot.dk/luma/); an emulator for the GBA line of systems
+* [Pollex](https://mandelbrot.dk/pollex/); a Rust crate for handling Arm instructions
+* [u8c](https://mandelbrot.dk/u8c/); a C library for Unicode-related facilities
 
 I host my repositories on [GitHub](https://github.com/bjoernager/), [GitLab](https://gitlab.com/bjoernager/), and [`mandelbrot.dk`](https://mandelbrot.dk/).  
 
-[Dux](https://github.com/bjoernager/dux/) was my first library and intended for replacing other libraries such as GLFW and Winit.
+[Dux](https://mandelbrot.dk/dux/) was my first library and intended for replacing other libraries such as GLFW and Winit.
 The logo of this project was loosely based on that of u8c and currently serves as my profile picture.
 
