@@ -18,8 +18,8 @@ These include:
 
 * [agbsum](https://mandelbrot.dk/agbsum/); a CLI tool for patching GBA image header checksums
 * [Benoit](https://mandelbrot.dk/benoit/); a multithreaded Mandelbrot Set renderer
-* [bZipper](https://mandelbrot.dk/bzipper/); a Rust crate for encoding and decoding binary streams
 * [eAS](https://mandelbrot.dk/eas/); a Rust-written assembler for Arm
+* [Librum](https://mandelbrot.dk/librum/); a Rust crate for encoding and decoding binary streams
 * [Luma](https://mandelbrot.dk/luma/); an emulator for the GBA line of systems
 * [Pollex](https://mandelbrot.dk/pollex/); a Rust crate for handling Arm instructions
 * [u8c](https://mandelbrot.dk/u8c/); a C library for Unicode-related facilities
