@@ -27,6 +27,3 @@ These include:
 
 I host my repositories on [GitLab](https://gitlab.com/bjoernager/), [GitHub](https://github.com/bjoernager/), and [`mandelbrot.dk`](ssh://git@ssh.mandelbrot.dk) (SSH-only).  
 
-[Dux](https://gitlab.com/bjoernager/dux/) was my first library and intended for replacing other libraries such as GLFW and Winit.
-The logo of this project was loosely based on that of u8c and currently serves as my profile picture.
-
