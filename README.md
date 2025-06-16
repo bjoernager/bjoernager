@@ -16,13 +16,14 @@ I also have limited experience in assembly (mostly legacy Arm).
 My favourite repositories are the projects that I am most fond of.
 These include:
 
-* [agbsum](https://mandelbrot.dk/bjoernager/agbsum/); a CLI tool for patching GBA image header checksums
+* [AgbHdr](https://mandelbrot.dk/bjoernager/agbhdr/); a CLI tool for handling GBA image header 
 * [Benoit](https://mandelbrot.dk/bjoernager/benoit/); a multithreaded Mandelbrot Set renderer
-* [eAS](https://mandelbrot.dk/bjoernager/eas/); a Rust-written assembler for Arm
+* [eAS](https://mandelbrot.dk/bjoernager/eas/); a Rust-written assembler for embedded systems
 * [Luma](https://mandelbrot.dk/bjoernager/luma/); an emulator for the GBA line of systems
+* [MouseLaunch](https://mandelbrot.dk/bjoernager/mouselaunch/); a graphical app launcher for MS-DOS
 * [Oct](https://mandelbrot.dk/bjoernager/oct/); a Rust crate for encoding and decoding binary streams
 * [Pollex](https://mandelbrot.dk/bjoernager/pollex/); a Rust crate for handling Arm instructions
 * [u8c](https://mandelbrot.dk/bjoernager/u8c/); a C library for Unicode-related facilities
 
-I host my repositories on [Mandelbrot](https://mandelbrot.dk/), [GitLab](https://gitlab.com/bjoernager/), and [GitHub](https://github.com/bjoernager/).  
+I host my repositories on [Mandelbrot](https://mandelbrot.dk/) and (in some cases) on [GitLab](https://gitlab.com/bjoernager/) and [Codeberg](https://codeberg.org/bjoernager/) as well.  
 
