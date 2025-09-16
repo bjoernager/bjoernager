@@ -23,6 +23,7 @@ These include:
 * [MouseLaunch](https://mandelbrot.dk/bjoernager/mouselaunch/); a graphical app launcher for MS-DOS
 * [Oct](https://mandelbrot.dk/bjoernager/oct/); a Rust crate for encoding and decoding binary streams
 * [Pollex](https://mandelbrot.dk/bjoernager/pollex/); a Rust crate for handling Arm instructions
+* [PolyLane](https://mandelbrot.dk/bjoernager/polylane/); Portable and versatile SIMD for Rust
 * [u8c](https://mandelbrot.dk/bjoernager/u8c/); a C library for Unicode-related facilities
 
 I host my repositories on [Mandelbrot](https://mandelbrot.dk/) and (in some cases) on [GitLab](https://gitlab.com/bjoernager/) and [Codeberg](https://codeberg.org/bjoernager/) as well.  
