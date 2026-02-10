@@ -23,6 +23,10 @@ and assembly. For legacy programming, I use whatever was prominent at that time
 
 [Rust]: <https://en.wikipedia.org/wiki/Rust_(programming_language)>
 
+# Platforms
+
+I love embedded programming.
+
 # Music
 
 I like music. I don't like bragging about specific music. Enjoy whatever.
