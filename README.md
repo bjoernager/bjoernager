@@ -25,7 +25,8 @@ and assembly. For legacy programming, I use whatever was prominent at that time
 
 # Platforms
 
-I love embedded programming.
+I love embedded programming (hence the &ldquo;freestanding developer.&rdquo;) I
+want to make my own embedded platforms.
 
 # Music
 
