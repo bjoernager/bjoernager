@@ -32,7 +32,7 @@ want to make my own embedded platforms.
 
 I like music. I don't like bragging about specific music. Enjoy whatever.
 
-<sub>[When you have the time, but only once...](https://youtu.be/gIHDfNFDiLc)</sub>
+<sub>[When you have the time, but only once...](https://youtu.be/H4TbUfIYm_o)</sub>
 
 # Main projects
 
