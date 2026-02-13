@@ -37,7 +37,7 @@ I like music. I don't like bragging about specific music. Enjoy whatever.
 # Main projects
 
 * [AgbHdr] &ndash; a CLI tool for handling GBA image header 
-* [BackSpace] &ndash; a retro game engine inspired by Counter-Strike 1.6
+* [Backspace] &ndash; a retro game engine inspired by Counter-Strike 1.6
 * [Benoit] &ndash; a multithreaded Mandelbrot Set renderer
 * [eAS] &ndash; a Rust-written assembler for embedded systems
 * [GoldForge] &ndash; a reimplementation of the GoldSrc (etc.) codecs
@@ -47,7 +47,7 @@ I like music. I don't like bragging about specific music. Enjoy whatever.
 * [u8c] &ndash; a C library for Unicode-related facilities
 
 [AgbHdr]: <https://mandelbrot.dk/bjoernager/agbhdr/>
-[BackSpace]: <https://mandelbrot.dk/bjoernager/backspace/>
+[Backspace]: <https://mandelbrot.dk/bjoernager/backspace/>
 [Benoit]: <https://mandelbrot.dk/bjoernager/benoit/>
 [eAS]: <https://mandelbrot.dk/bjoernager/eas/>
 [GoldForge]: <https://mandelbrot.dk/bjoernager/goldforge/>
