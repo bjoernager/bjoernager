@@ -34,27 +34,35 @@ I like music. I don't like bragging about specific music. Enjoy whatever.
 
 <sub>[When you have the time, but only once...](https://youtu.be/H4TbUfIYm_o)</sub>
 
-# Main projects
+# Primary projects
+
+Primary libraries:
 
 * [AgbHdr] &ndash; a CLI tool for handling GBA image header 
 * [Backspace] &ndash; a retro game engine inspired by Counter-Strike 1.6
-* [Benoit] &ndash; a multithreaded Mandelbrot Set renderer
-* [eAS] &ndash; a Rust-written assembler for embedded systems
 * [GoldForge] &ndash; a reimplementation of the GoldSrc (etc.) codecs
-* [Luma] &ndash; an emulator for the GBA line of systems
 * [Oct] &ndash; a Rust library for octonary transmutation
 * [PolyLane] &ndash; a Rust library for portable and versatile SIMD
 * [u8c] &ndash; a C library for Unicode-related facilities
 
 [AgbHdr]: <https://mandelbrot.dk/bjoernager/agbhdr/>
 [Backspace]: <https://mandelbrot.dk/bjoernager/backspace/>
-[Benoit]: <https://mandelbrot.dk/bjoernager/benoit/>
-[eAS]: <https://mandelbrot.dk/bjoernager/eas/>
 [GoldForge]: <https://mandelbrot.dk/bjoernager/goldforge/>
-[Luma]: <https://mandelbrot.dk/bjoernager/luma/>
 [Oct]: <https://mandelbrot.dk/bjoernager/oct/>
 [PolyLane]: <https://mandelbrot.dk/bjoernager/polylane/>
 [u8c]: <https://mandelbrot.dk/bjoernager/u8c/>
+
+Primary applications:
+
+* [Benoit] &ndash; a multithreaded Mandelbrot Set renderer
+* [eAS] &ndash; a Rust-written assembler for embedded systems
+* [Luma] &ndash; an emulator for the GBA line of systems
+* [plural2bin] &ndash; a data recovery utility for inconsistent rips
+
+[Benoit]: <https://mandelbrot.dk/bjoernager/benoit/>
+[eAS]: <https://mandelbrot.dk/bjoernager/eas/>
+[Luma]: <https://mandelbrot.dk/bjoernager/luma/>
+[plural2bin]: <https://mandelbrot.dk/bjoernager/plural2bin/>
 
 # Achernar
 
