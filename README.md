@@ -38,7 +38,7 @@ I like music. I don't like bragging about specific music. Enjoy whatever.
 
 Primary libraries:
 
-* [AgbHdr] &ndash; a CLI tool for handling GBA image header 
+* [AgbHdr] &ndash; a CLI tool for handling GBA image headers
 * [Backspace] &ndash; a retro game engine inspired by Counter-Strike 1.6
 * [GoldForge] &ndash; a reimplementation of the GoldSrc (etc.) codecs
 * [Oct] &ndash; a Rust library for octonary transmutation
@@ -68,4 +68,3 @@ Primary applications:
 
 My commercial endeavours are done through Achernar. See <https://achernar.io/>
 for more information.
-
